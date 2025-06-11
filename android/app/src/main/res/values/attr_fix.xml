@@ -1,0 +1,4 @@
+<resources>
+    <!-- Added to fix resource linking: android:attr/lStar not found -->
+    <attr name="lStar" format="float" />
+</resources> 
